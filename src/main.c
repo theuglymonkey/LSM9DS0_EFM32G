@@ -26,6 +26,8 @@ int main(void)
   CHIP_Init();
 
   /* Infinite loop */
-  while (1) {
+  while (1)
+  {
+
   }
 }
